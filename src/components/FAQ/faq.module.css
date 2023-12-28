@@ -1,0 +1,30 @@
+.wrapper {
+  background-color: var(--color-gray);
+  min-block-size: 100svh;
+  color: white;
+  padding-top: 5rem;
+}
+.innerwrapper {
+  display: flex;
+  justify-content: center;
+  /* width: 1140px; */
+}
+.faq {
+  padding-left: 15rem;
+  padding-right: 15rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 8rem;
+}
+.faq p {
+  color: gray;
+}
+.accord {
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.acc_div {
+  padding-top: 2rem;
+}

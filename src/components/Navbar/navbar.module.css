@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--color-black);
+  color: white;
+  height: 80px;
+}
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.listWrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.listWrapper li {
+  cursor: pointer;
+}
+.button {
+  height: 47px;
+  width: 172px;
+  background-color: var(--color-black);
+  color: white;
+  border: 1px solid white;
+  cursor: pointer;
+}

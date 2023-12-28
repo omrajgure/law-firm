@@ -1,0 +1,22 @@
+.wrapper {
+  height: 356px;
+  background-color: #474747;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+  margin-bottom: 8rem;
+  /* width: 1245px; */
+}
+.innerwrapper {
+  display: flex;
+  flex-direction: column;
+}
+.input_but {
+  width: auto;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 2px;
+}

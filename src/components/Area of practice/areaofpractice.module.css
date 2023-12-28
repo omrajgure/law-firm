@@ -1,0 +1,27 @@
+.wrapper {
+  background-color: var(--color-gray);
+  min-block-size: 100svh;
+  color: white;
+  padding-top: 7rem;
+}
+.img_wrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+.img1Wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding-bottom: 2rem;
+}
+.eachimgdiv {
+  position: relative;
+}
+.img_text {
+  position: absolute;
+  left: 40%;
+  bottom: 0;
+  font-weight: 600;
+  font-size: 24px;
+}

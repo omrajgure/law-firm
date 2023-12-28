@@ -1,0 +1,12 @@
+.wrapper {
+  width: 15rem;
+  border-radius: 14px;
+  padding: 10px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+}
+.text p {
+  color: gray;
+}

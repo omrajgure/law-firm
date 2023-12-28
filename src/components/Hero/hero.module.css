@@ -1,0 +1,31 @@
+.wrapper {
+  min-block-size: 100svh;
+  background-color: var(--color-black);
+  color: white;
+  padding-top: 3rem;
+}
+.hero {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.text_container {
+  display: flex;
+  flex-direction: column;
+  width: 35rem;
+  gap: 20px;
+}
+.heroimg {
+  width: 467px;
+  height: 545px;
+}
+.email_div {
+  display: flex;
+  align-items: center;
+  width: 438px;
+  height: 74px;
+  background-color: var(--color-gray);
+  padding: 5px;
+  border-radius: 43px;
+  padding-left: 35px;
+}

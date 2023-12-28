@@ -1,0 +1,6 @@
+.wrapper {
+  color: white;
+  height: 367px;
+  background-color: var(--color-black);
+  padding: 5rem;
+}

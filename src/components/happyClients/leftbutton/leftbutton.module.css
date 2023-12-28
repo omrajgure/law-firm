@@ -1,0 +1,10 @@
+.wrapper {
+  width: 4rem;
+  height: 4rem;
+  background-color: #e6e6e6;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
